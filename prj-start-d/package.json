@@ -26,9 +26,9 @@
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "webpack": ">=5.76.0",
+    "postcss": ">=8.4.31",
     "zone.js": "~0.13.1",
     "vite": ">=4.5.2",
-    "postcss": ">=8.4.31",
     "critters": ">=0.0.20"
   },
   "devDependencies": {
@@ -48,8 +48,8 @@
     "karma-jasmine-html-reporter": "~2.0.0",
     "typescript": "~4.9.4",
     "webpack": ">=5.76.0",
-    "vite": ">=4.5.2",
     "postcss": ">=8.4.31",
+    "vite": ">=4.5.2",
     "critters": ">=0.0.20"
   }
 }
