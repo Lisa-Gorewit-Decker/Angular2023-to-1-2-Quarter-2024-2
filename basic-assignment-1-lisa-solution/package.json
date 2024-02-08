@@ -27,6 +27,7 @@
     "webpack": ">=5.76.0",
     "zone.js": "~0.13.1",
     "postcss": ">=8.4.32"
+
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^15.2.9",
