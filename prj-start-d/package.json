@@ -28,8 +28,8 @@
     "webpack": ">=5.76.0",
     "postcss": ">=8.4.32",
     "zone.js": "~0.13.1",
-    "vite": ">=4.5.2",
-    "critters": ">=0.0.20"
+    "critters": ">=0.0.20",
+    "vite": ">=5.0.12"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^16.1.5",
