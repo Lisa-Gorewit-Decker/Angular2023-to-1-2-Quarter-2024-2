@@ -1,9 +1,12 @@
+# `dependabot.yml` file with updates
+# disabled for Docker and limited for npm
+
 version: 2
 updates:
-  - package-ecosystem: "npm"
+  # Configuration for Dockerfile
+  - package-ecosystem: "docker"
     directory: "/"
     schedule:
       interval: "weekly"
-    commit-message:
-      # Prefix all commit messages with "npm: "
-      prefix: "npm"
+      # Disable all pull requests for Docker dependencies
+    open-pull-requests-limit: 1000
