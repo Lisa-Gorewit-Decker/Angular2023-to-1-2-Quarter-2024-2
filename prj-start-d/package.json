@@ -30,7 +30,7 @@
     "webpack-dev-middleware": ">=6.1.2",
     "postcss": ">=8.4.31",
     "zone.js": "~0.13.1",
-    "vite": ">=4.5.2"
+    "vite": ">=5.0.13"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^16.1.5",
@@ -53,6 +53,6 @@
     "webpack-dev-middleware": ">=6.1.2",
     "postcss": ">=8.4.31",
     "critters": ">=0.0.20",
-    "vite": ">=4.5.2"
+    "vite": ">=5.0.13"
   }
 }
