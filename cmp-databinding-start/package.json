@@ -21,7 +21,9 @@
     "bootstrap": "^3.0.0",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
-    "zone.js": "~0.11.4"
+    "zone.js": "~0.11.4",
+    "ip": "<= 2.0.1"
+    
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^18.0.3",
@@ -38,7 +40,9 @@
     "typescript": "~4.7.2",
     "webpack": "^5.88.2",
     "webpack-cli": "^5.1.4",
-    "webpack-dev-server": "^4.15.1"
+    "webpack-dev-server": "^4.15.1",
+    "ip": "<= 2.0.1"
+    
   },
   "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.",
   "main": "karma.conf.js",
