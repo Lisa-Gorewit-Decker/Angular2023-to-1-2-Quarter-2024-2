@@ -27,7 +27,7 @@
     "webpack-dev-middleware": ">=6.1.2",
     "braces": ">=3.0.3",
     "express": ">=4.19.2",
-    "ip": ">=2.0.1"
+    "ip": "<= 2.0.1",
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^15.2.9",
@@ -46,6 +46,6 @@
     "typescript": "~4.9.4",
     "braces": ">=3.0.3",
     "express": ">=4.19.2",
-    "ip": ">=2.0.1"
+    "ip": "<= 2.0.1",
   }
 }
